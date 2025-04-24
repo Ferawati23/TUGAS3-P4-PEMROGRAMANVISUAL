@@ -1,0 +1,53 @@
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.Form1.resources
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.Properties.Resources.resources
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\bin\Debug\SepatuApp.exe.config
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\bin\Debug\SepatuApp.exe
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\bin\Debug\SepatuApp.pdb
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.exe
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.pdb
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\SepatuApp.exe.config
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\SepatuApp.exe
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\SepatuApp.pdb
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.csproj.AssemblyReference.cache
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.Form1.resources
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.Properties.Resources.resources
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.csproj.GenerateResource.cache
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.csproj.CoreCompileInputs.cache
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.exe
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.pdb
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\Google.Protobuf.dll
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\MySql.Data.dll
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\System.Buffers.dll
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\System.Memory.dll
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\ZstdSharp.dll
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\Google.Protobuf.xml
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\MySql.Data.xml
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\System.Buffers.xml
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\System.Memory.xml
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MyBook Hype\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.csproj.Up2Date
